@@ -1,0 +1,76 @@
+Rolle 2: - Arbeiter 2 
+Ardaric legt sich schlafen und belauscht die Geschichte seiner Vergangenheit
+
+Die Arbeiter am Lagerfeuer unterhalten sich:
+
+Arbeiter 1: Bald brauchen wir kein Holz mehr herschleppen. In ein paar Stunden ist der Flaschenzug wieder repariert.
+Arbeiter 2: Und dann, du Dummkopf? Dann müssen wir schleppen, was von der Rampe gefördert wird.
+Arbeiter 1: Ach, halts Maul! Sag mal, schläft der Ardaric?
+Arbeiter 2: Der hat das Zahnrad hier hergeschleppt. Der ist fertig. 
+Arbeiter 1: Armer Kerl. Ich hab Gerüchte über ihn gehört. Kennst du seine Geschichte?
+Arbeiter 2: Nein. Aber da du ja alles weißt, und alles rumerzählst, krieg ich sie bestimmt gleich zu hören. 
+Arbeiter 1: Dir vergeht noch das Lachen. Es heißt Berengar hat Ardarics Vater getötet und die Leiche in einer Gebirgshöhle verscharrt.
+Arbeiter 2: Was sagst du da? Warum das alles?
+Arbeiter 1: Das weiß ich nicht.
+Arbeiter 2: Aber wenn das stimmt, dann muss Ardaric Berengar doch hassen. 
+Arbeiter 1: Nein. Der Ardaric weiß nichts davon. Während des Überfalls ist er niedergeschlagen worden. Und von Berengar hat er eine ganz andere Geschichte gehört.  Ardaric glaubt, Berengar hätte versucht, seinen Vater zu retten. Er denkt das die Mörder in Wahrheit die Soldaten des Königs waren. Aber pass auf! Kein Wort zu jemandem. Wenn Berengar erfährt, dass ich geplaudert habe, geht's mir dreckig. Psst, ich glaub er wird wach...
+
+
+
+Die Arbeiter Teil 2:
+Hero: Bist du einer der Arbeiter die die Rampe reparieren sollen?
+
+Arbeiter 2: Ja. Mein Kumpel und ich sind dafür zuständig. Wie ich sehe hast du das Zahnrad schon abgeholt. Dann also los.
+#(alternativ bei Nacht): Ja, aber im dunkeln machen wir das nicht. Komm am Tag wieder.
+
+Hero: Aber dein Kumpel hat gesagt, er hat keine Lust?
+
+Arbeiter 2: Er hat nie Lust. Glaub mir, er kommt mit, weil er weiß was sonst passiert...
+
+
+#Arbeiter 2:   Wo ist eigentlich der Andere abgeblieben?
+            
+#Hero:         Ämm? Keine Ahnung.
+                                   
+#Arbeiter 2:   Dann geh ihn suchen. Zu Zweit schaffen wir das nicht!
+
+
+Hero: Das hier scheint die Rampe zu sein.
+
+Arbeiter 2: Schlaues Bürschchen. Wir sind jetzt da.
+
+Hero: Okay, fangen wir an, die Rampe zu reparieren.
+
+Arbeiter 2: Kleiner, du scheinst dich ja wirklich dafür zu interessieren, das diese Rampe wieder repariert wird. Gib mal das Zahnrad her. Ich werde es gleich einsetzen.
+
+
+Arbeiter 2: Hmmm. Das Zahnrad war es nicht. Aber das Alte lassen wir hier, wir müssen dass nicht unnötig mit uns herumtragen.
+
+Hero: Wenn wir erfolglos zurückkehren, bekommen wir bestimmt Ärger mit Graveyarn...
+
+*Arbeiter 2: Du hast recht. Lass uns etwas anderes ausprobieren. Pass auf, wir gehen vor zur Rampe und versuchen an den Ketten zu ziehen. Du bleibst hier. Von hier hast du einen Überblick und kannst uns sagen sobald die Ketten sich verklemmen. Sag mir, wenn du dazu bereit bist!
+
+
+Hero: Okay, ich bin so weit. Wir können jetzt versuchen, die Rampe zu reparieren.
+
+Arbeiter 2: Dann gehen wir jetzt rüber. Du gibst uns dann das Kommando, ob wir links oder rechts ziehen sollen.
+
+Hero: Links.
+
+*Arbeiter 2: Die Kette hat sich verklemmt...
+
+*Arbeiter 2: Nein, die Kette bewegt sich kein Stück.
+
+Arbeiter 2: Auch jetzt rührt sich nichts.  
+
+Arbeiter 2: Es klemmt immer noch.
+
+
+
+
+Hero: Probiert mal, ob die Rampe jetzt wieder funktioniert.
+
+Arbeiter 2: Tatsächlich! Sie funktioniert wieder! Danke Kleiner!
+
+
+
